@@ -1,0 +1,5 @@
+<svg width="545" height="390" viewBox="0 -10 545 380" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <use xlink:href="https://raw.githubusercontent.com/nikokosm/svgs/master/level3.svg#foo"/>
+<polygon id="triangle" points="0,0 0,50 50,0" fill="#009900" stroke="#004400"/>
+<text x="0" y="20" font-size="20">{{4*4}}</text>
+</svg>
